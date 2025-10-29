@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **Web Development, DSA and Java**
 
-👩‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/subhalaxmipanda)
+👩‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/subhu005)
 
 📫 How to reach me **pandasubhalaxmi047@gmail.com**
 
